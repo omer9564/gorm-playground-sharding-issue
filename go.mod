@@ -12,8 +12,8 @@ require (
 	gorm.io/driver/sqlserver v1.5.1
 	gorm.io/gen v0.3.25
 	gorm.io/gorm v1.25.11
-	gorm.io/plugin/dbresolver v1.5.0
-	gorm.io/sharding v0.6.1
+	gorm.io/plugin/dbresolver v1.5.1
+	gorm.io/sharding v0.6.2-0.20240801083256-5a6366386689
 )
 
 require (
